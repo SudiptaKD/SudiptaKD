@@ -3,16 +3,17 @@
 
 - 🌱 I’m currently learning **Next.js & TypeScript**
 
-- 👨‍💻 Here is my Portfolio [https://sudiptakd.netlify.app/](https://sudiptakd.netlify.app/)
+- 👨‍💻 Portfolio [https://sudiptakd.netlify.app/](https://sudiptakd.netlify.app/)
 
-- 📫 How to reach me **sudiptakumardam@gmail.com**
+- 📫 Mail me at **sudiptakumardam@gmail.com**
 
-- ⚡ Fun fact **I like to watch anime, read comics and eat foods from everywhere.**
+- ⚡ **I like to watch anime, read comics and eat foods from everywhere.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://fb.com/sudiptakd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudiptakd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudiptakd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudiptakd" height="30" width="40" /></a>
-<a href="https://fb.com/sudiptakd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudiptakd" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +26,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptakd&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptakd" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptakd" alt="sudiptakd" /></a> </p>
