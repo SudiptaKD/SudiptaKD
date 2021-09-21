@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sudipta Kumar Dam</h1>
 <h3 align="center">A passionate coder, roaming through web & software development environment.</h3>
 
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 - 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 👨‍💻 Portfolio [https://sudiptakd.netlify.app/](https://sudiptakd.netlify.app/)
-
 - 📫 Mail me at **sudiptakumardam@gmail.com**
-
+- 🥅 2021 Goals: Go more deep into React.js & getting a hands on approach to backend technologies. 
+- 💬 Ask me about anything, I am happy to help :smile:
 - ⚡ **I like to watch anime, read comics and eat foods from everywhere.**
 
 <h3 align="left">For Contact:</h3><p align="left">                                                                                                                               <a href="https://fb.com/sudiptakd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudiptakd" height="30" width="40" /></a>                                                                             <a href="https://linkedin.com/in/sudiptakd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudiptakd" height="30" width="40" /></a> </p>
