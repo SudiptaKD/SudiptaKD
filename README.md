@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudipta Kumar Dam</h1>
 <h3 align="center">A passionate coder, roaming through web & software development environment.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptakd" alt="sudiptakd" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 👨‍💻 Here is my Portfolio [https://sudiptakd.netlify.app/](https://sudiptakd.netlify.app/)
@@ -25,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudiptakd&show_icons=true&locale=en" alt="sudiptakd" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptakd&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptakd" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudiptakd" alt="sudiptakd" /></a> </p>
