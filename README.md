@@ -2,7 +2,6 @@
 <h3 align="center">Building High-Performance, Scalable Web Applications | Frontend Optimization & Leadership</h3>
 
 <p align="center">
-  <a href="https://sudiptakd.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
   <a href="mailto:sudiptakumardam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" /></a>
   <a href="https://linkedin.com/in/sudiptakd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://github.com/sudiptakd" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
